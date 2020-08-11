@@ -5,6 +5,8 @@ The design and development of a automated cryptocurrency trading application
 
 https://www.ibm.com/blockchain/what-is-blockchain
 
+https://www.stakingrewards.com
+
 https://www.coinapi.io/
 
 https://cryptoapis.io/#crypto-market-data
