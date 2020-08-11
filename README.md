@@ -2,6 +2,8 @@
 The design and development of a automated cryptocurrency trading application 
 
 ## Links
+https://www.youtube.com/watch?v=2BrpKpWwT2A
+
 https://www.coinapi.io/
 
 https://www.youtube.com/watch?v=iXGnNPL89Wo&list=WL&index=227&t=213s
