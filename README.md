@@ -13,6 +13,8 @@ https://cryptoapis.io/#crypto-market-data
 
 https://developers.coinbase.com/api/v2
 
+https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/
+
 ### youtube tutorials
 
 https://www.youtube.com/watch?v=LiqQsmU6qYg
