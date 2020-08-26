@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://binance-docs.github.io/apidocs/futures/en/#change-log
+
 https://github.com/binance-exchange/binance-official-api-docs/blob/master/wapi-api.md#timing-security
 
 https://python-binance.readthedocs.io/en/latest/
