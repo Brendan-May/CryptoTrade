@@ -1,3 +1,5 @@
+# this section of code is fully functioning and returns the value of df in 6 columns, TIME, OPEN, HIGH, LOW, CLOSE, and VOLUME
+
 import pandas as pd
 import requests
 import json
