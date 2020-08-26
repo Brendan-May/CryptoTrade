@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://python-binance.readthedocs.io/en/latest/
+
 https://github.com/binance-us
 
 https://www.ibm.com/blockchain/what-is-blockchain
