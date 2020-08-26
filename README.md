@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://github.com/binance-us
+
 https://www.ibm.com/blockchain/what-is-blockchain
 
 https://www.stakingrewards.com
