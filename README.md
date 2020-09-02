@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://howtostartanllc.com/business-ideas/cryptocurrency
+
 https://blog.shrimpy.io/blog/binance-crypto-trading-bots-with-python
 
 https://binance-docs.github.io/apidocs/futures/en/#change-log
