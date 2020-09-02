@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://ieeexplore.ieee.org/document/720574
+
 https://howtostartanllc.com/business-ideas/cryptocurrency
 
 https://blog.shrimpy.io/blog/binance-crypto-trading-bots-with-python
