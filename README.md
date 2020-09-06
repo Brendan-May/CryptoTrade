@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://www.ig.com/us/learn-to-trade#new
+
 https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
 
 https://ieeexplore.ieee.org/document/720574
