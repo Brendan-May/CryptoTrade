@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://bitcointradingpractice.com/guide/delta-neutral-funding/
+
 https://www.ig.com/us/learn-to-trade#new
 
 https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp
@@ -34,6 +36,8 @@ https://developers.coinbase.com/api/v2
 https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/
 
 ### youtube tutorials
+
+https://www.youtube.com/watch?v=rvhnz1yBHgQ
 
 https://www.youtube.com/watch?v=LiqQsmU6qYg
 
