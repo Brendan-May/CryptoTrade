@@ -3,6 +3,8 @@ The design and development of a automated cryptocurrency trading application
 
 ## Links
 
+https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
+
 https://bitcointradingpractice.com/guide/delta-neutral-funding/
 
 https://www.ig.com/us/learn-to-trade#new
